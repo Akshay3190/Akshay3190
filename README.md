@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kulkarni</h1>
 <h3 align="center">I'm Coding enthusiast & passionate about Data Science.</h3>
-<img align='right" width=400 alt="coding" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif"
+<img align='right" width=400 alt="coding" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3190&label=Profile%20views&color=0e75b6&style=flat" alt="akshay3190" /> </p>
 
