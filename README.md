@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Kulkarni</h1>
 <h3 align="center">I'm Coding enthusiast & passionate about Data Science.</h3>
-<img align='right" width=400 alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F6-phases-data-analysis-according-google-quantum-analytics-ng&psig=AOvVaw07Psjl_dUd9lZ9lmUm84nc&ust=1701271352565000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDdtuf_5oIDFQAAAAAdAAAAABAW">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay3190&label=Profile%20views&color=0e75b6&style=flat" alt="akshay3190" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@akshayk13872015" target="blank"><img src="https://img.shields.io/twitter/follow/@akshayk13872015?logo=twitter&style=for-the-badge" alt="@akshayk13872015" /></a> </p>
