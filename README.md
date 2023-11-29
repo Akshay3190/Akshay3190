@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akshay3190](https://github.com/Akshay3190)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/Akshay3190](https://linktr.ee/Akshay3190)
 
 - 💬 Ask me about **Power BI, Tableau, SQL & Python**
 
