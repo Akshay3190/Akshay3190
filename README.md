@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Akshay3190](https://linktr.ee/Akshay3190)
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/akshaykulkarni](https://www.novypro.com/profile_projects/akshaykulkarni)
 
 - 💬 Ask me about **Power BI, Tableau, SQL & Python**
 
